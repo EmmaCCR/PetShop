@@ -1,0 +1,118 @@
+.d1{
+    display: flex;
+    font-size: 22px;
+    color: blueviolet;
+img{
+    padding-top: 30px;
+    width: 40px;
+    height: 40px;
+}
+}
+.d1-1{
+    color: blueviolet;
+    margin-top: -30px;
+}
+.cao{
+    background-image: url(banner-topo.jpg);
+    background-attachment: fixed;
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 300px;
+}
+.slogan{
+    text-align: center;
+    background-color: #ffffffb7;
+    font-size: 45px;
+    margin: 50px;
+    padding: 30px;
+    color: blueviolet;
+a{
+    background-color: blueviolet;
+    color: white;
+    padding: 20px;
+    border-radius: 20px;
+img{
+    width: 50px;
+}
+}
+}
+.d2{
+    margin-top: 150px;
+    margin-left: 500px;
+    margin-right: 500px;
+    color: blueviolet;
+span{
+    font-weight: bold;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+li{
+    font-size: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+img{
+    width: 250px;
+    box-shadow: 10px 10px 10px grey;
+}
+}
+.d3{
+    margin-top: 150px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 100px;
+h1{
+    font-size: 55px;
+}
+img{
+    width: 100px;
+    margin-top: 30px;
+}
+}
+.d4{
+    text-align: center;
+    font-size: 50px;
+    color: blueviolet;
+img{
+    width: 200px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+}
+.d5{
+    margin-top: 150px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 100px;
+h1{
+    font-size: 55px;
+}
+img{
+    width: 100px;
+    margin-top: 30px;
+}
+}
+.d6{
+    font-size: 50px;
+    text-align: center;
+    color: blueviolet;
+p{
+    font-size: 30px;
+}
+iframe{
+    width: 1500px;
+    height: 600px;
+}
+}
+.d7{
+    margin-top: 150px;
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
